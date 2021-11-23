@@ -1,4 +1,3 @@
-
 export const heroes = [
     {
         id: 1,
